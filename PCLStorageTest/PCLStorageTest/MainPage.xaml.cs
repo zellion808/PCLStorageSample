@@ -42,7 +42,7 @@ namespace PCLStorageTest
             }
             catch (FileNotFoundException)
             {
-                // 何もしない
+                await DisplayAlert("", "ファイルがありません。", "OK");
             }
         }
 
@@ -66,7 +66,7 @@ namespace PCLStorageTest
             }
             catch (UnauthorizedAccessException)
             {
-                // 何もしない
+                await DisplayAlert("", "ファイルが使用中のため、上書きできません。", "OK");
             }
         }
     }
