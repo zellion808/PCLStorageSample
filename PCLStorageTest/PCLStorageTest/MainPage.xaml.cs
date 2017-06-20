@@ -22,7 +22,7 @@ namespace PCLStorageTest
         private async void DownloadButton_Clicked(object sender, EventArgs e)
         {
             var httpClient = new HttpClient();
-            var byteImage = await httpClient.GetByteArrayAsync("https://s.yimg.jp/images/top/office/cmn/ylogo_office-140228.png");
+            var byteImage = await httpClient.GetByteArrayAsync("https://www.jmas.co.jp/common/images/logo_2x.png");
 
             await SaveImage(byteImage, "image.png");
         }
