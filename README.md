@@ -1,5 +1,5 @@
 # PCLStorageSample
-【Xamarin】PCLStorageを使ってURLから画像の取得、保存、表示をするサンプル
+【Xamarin】PCLStorageを使ってURLから画像の取得、保存、表示をするサンプルです。
 
 # 手順（備忘録）
 1　NuGetパッケージ管理からMicrosoft.Net.Httpをインストール（PCLのみで可）  
