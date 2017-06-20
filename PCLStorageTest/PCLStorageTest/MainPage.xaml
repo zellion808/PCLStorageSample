@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:PCLStorageTest"
-             x:Class="PCLStorageTest.MainPage">
-    
-    <StackLayout Margin="50">
+<ContentPage
+    x:Class="PCLStorageTest.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:PCLStorageTest">
+
+    <StackLayout Margin="60">
         <Button Clicked="DownloadButton_Clicked" Text="Download Image" />
         <Button Clicked="LoadButton_Clicked" Text="Load Image" />
         <Image x:Name="imgDownloaded" />
     </StackLayout>
-    
+
 </ContentPage>
