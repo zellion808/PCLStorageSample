@@ -9,7 +9,7 @@ PCLStorageを使ってURLから画像の取得、保存、表示をするサン�
 これでHttpClientを使い、URLから画像をDL可能になる
 - http://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/ を参考に実装|
 各プラットフォーム毎ではなく、PCL部分で画像の保存、読み込みが可能
-  
+
 ---
 
 ### コード
