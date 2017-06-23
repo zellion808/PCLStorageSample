@@ -1,3 +1,5 @@
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/zellion808/PCLStorageSample/master?grs=github&t=night)
+
 # PCLStorageSample
 【Xamarin】PCLStorageを使ってURLから画像の取得、保存、表示をするサンプルです。
 
