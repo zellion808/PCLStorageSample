@@ -4,9 +4,9 @@
 ---
 
 ### 手順（備忘録）
-1　NuGetパッケージ管理からMicrosoft.Net.Httpをインストール（PCLのみで可）  
+-　NuGetパッケージ管理からMicrosoft.Net.Httpをインストール（PCLのみで可）  
 　　これでHttpClientを使い、URLから画像をDL可能になる  
-2　http://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/  を参考に実装  | | 
+-　http://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/  を参考に実装  | | 
 　　各プラットフォーム毎ではなく、PCL部分で画像の保存、読み込みが可能
 
 
