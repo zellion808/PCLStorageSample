@@ -11,7 +11,7 @@
 ---
 
 ### コード
----?code=MainPage.xaml.cs
+---?code=PCLStorageTest/PCLStorageTest/MainPage.xaml.cs
 
 ---
 
