@@ -11,8 +11,8 @@
 ---
 
 ### コード
----?code=PCLStorageTest/PCLStorageTest/MainPage.xaml.cs
-
++++?code=PCLStorageTest/PCLStorageTest/MainPage.xaml.cs
++++?code=PCLStorageSample/PCLStorageTest/PCLStorageTest/MainPage.xaml.cs
 ---
 
 ### 参考URL
