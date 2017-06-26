@@ -19,7 +19,7 @@ PCLStorageを使ってURLから画像の取得、保存、表示をするサン�
 ### 参考URL
 
 +++
-http://furuya02.hatenablog.com/entry/2014/10/05/053525  
-http://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/  
-https://developer.xamarin.com/guides/xamarin-forms/user-interface/images/
+http://furuya02.hatenablog.com/entry/2014/10/05/053525  |  
+http://www.c-sharpcorner.com/article/local-file-storage-using-xamarin-form/    |  
+https://developer.xamarin.com/guides/xamarin-forms/user-interface/images/  |  
 
